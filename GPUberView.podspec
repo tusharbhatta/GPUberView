@@ -19,7 +19,6 @@ Pod::Spec.new do |s|
   s.frameworks = 'MapKit', 'CoreLocation'
 
   s.dependency 'JSONModel', "~> 1.0"
-  s.dependency 'Bolts', "~> 1.1"
   s.dependency "PulsingHalo"
   s.dependency 'Masonry', '~> 0.6'
   s.dependency 'INTULocationManager', '~> 4.0'
