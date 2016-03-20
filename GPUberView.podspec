@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "7.1"
 
-  s.source       = { :git => "https://github.com/gpolak/GPUberView.git", :tag => "1.1.5" }
+  s.source       = { :git => "https://github.com/tusharbhatta/GPUberView.git", :tag => "1.1.5" }
 
   s.source_files = 'GPUberView'
   s.resources = 'GPUberView/*.{xib}', 'GPUberView/*.{png}'
