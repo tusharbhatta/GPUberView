@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "GPUberView"
   s.version      = "1.1.5"
   s.summary      = "Summon Uber from your app with 2 lines of code."
-  s.homepage     = "https://github.com/gpolak/GPUberView"
+  s.homepage     = "https://github.com/tusharbhatta/GPUberView"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   
   s.author       = { "George Polak" => "george.polak@gmail.com" }
